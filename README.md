@@ -71,7 +71,7 @@ pytest
 
 `demo/` is a nine-second excerpt from the official theatrical trailer of *Zindagi Na Milegi Dobara* (Zoya Akhtar, released 15 July 2011). Excel Movies posted the trailer: [Zindagi Na Milegi Dobara- Official Theatrical Trailer](https://www.youtube.com/watch?v=ifIBOKCfjVs). The clip is 1:55 to 2:04, with the letterbox cropped off. The film is still under copyright.
 
-Farhan Akhtar, Hrithik Roshan, and Katrina Kaif stay visible. Everyone else is covered with a black rectangle. The stills in `demo/references/` are from other moments of the same trailer. `demo/side-by-side.mp4` plays the original and the result side by side.
+Abhay Deol, Hrithik Roshan, and Katrina Kaif stay visible. Farhan Akhtar is covered, along with everyone else. The stills in `demo/references/` are from other moments of the same trailer. `demo/side-by-side.mp4` plays the original and the result side by side.
 
 ```bash
 noface --video demo/source.mp4 \
